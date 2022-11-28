@@ -612,6 +612,13 @@ h3 {
   text-align: center;
 }
 
+@media screen and (min-width: 1200px) {
+  .hero__image {
+    top: 50%;
+    transform: translateY(-50%);
+  }
+}
+
 .hero__image img {
   filter: drop-shadow(0px 0px 10px hsla(325, 37%, 53%, 0.671));
 }
