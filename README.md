@@ -12,6 +12,8 @@ Une attention toute particulière a été apportée à l'inclusivité web : un s
 
 HTML/CSS/JQUERY
 
+Aucun framework ni template n'a été utilisé lors de ce développement. Tout à été entièremment développé de zéro par mes soin.
+
 ## Accessibilité
 
 Cette maquette a été développée dans l'optique de rendre la navigation et le partage d'information accessibles à toutes et à tous. Le lecteur d'écran NVDA et des outils d'accessibilité comme Wave et Axe ont notamment été utilisés tout le long du processus de développement afin de valider chaque composant.
