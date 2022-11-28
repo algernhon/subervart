@@ -12,7 +12,7 @@ Une attention toute particulière a été apportée à l'inclusivité web : un s
 
 HTML/CSS/JQUERY
 
-Aucun framework ni template n'a été utilisé lors de ce développement. Tout à été entièremment développé de zéro par mes soin.
+Aucun framework ni template n'a été utilisé lors de ce développement. Tout à été entièremment développé de zéro par mes soins.
 
 ## Accessibilité
 
