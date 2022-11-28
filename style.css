@@ -255,6 +255,7 @@ h3 {
   transform: translateY(-120%);
   transition: transform 0.3s;
   width: 14rem;
+  z-index: 1000;
 }
 
 @media (prefers-reduced-motion: reduce) {
