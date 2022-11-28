@@ -29,12 +29,10 @@ Un thème foncé est aussi disponible afin de répondre aux troubles liés aux c
  - [X] Code structuré et commenté
  - [X] Thème clair/foncé
  - [X] Structure responsive
- - ...
+ - ... je vous laisse le soin d'inspecter le code !
  
  ![Image Lighthouse](https://i.imgur.com/zv2aWx9.png)
  ![Image GTM](https://i.imgur.com/CIaqbTt.png)
- 
- ## Bonnes pratiques
  
  # 🖼 Oeuvres présentées
  
